@@ -16,6 +16,11 @@ This class is designated as "Dual Enrollment," which means that you are enrolled
 \item{My teacher is here to help, and I have access to supportive counselors, tutors, and librarians through both APS and NOVA. I will seek help and use my resources if I am struggling with the material.}
 \item{I understand that this course follows NOVA's academic and grading policies. This means that late work is not accepted, and summative grade retakes will not be provided.}
 \item{I understand that this class follows a "flipped" instructional model. Reading assignments will be provided before class each day, and each class will begin with a graded reading quiz. The teacher will assume that I have done the assigned reading. If I do not complete the assigned reading before class, I will not have the knowledge required to participate in class activities.}
+\item{As a dual-enrolled class, this course calculates grades
+      based on work completed throughout the entire semester. Although a grade for each
+      "quarter" will be reported on the APS report card, the grade book will not "reset"
+      at the end of the quarter.}
+\item{I understand that attendance is necessary for success in this class. This class includes frequent in-class, graded assignments for which I will receive a zero if I am absent, and for which no makeup will be provided. To account for occasional legitimate absences, the five lowest of these grades will be dropped each semester, and additional consideration can be made for extreme circumstances.}
 \end{itemize}
 
 \textbf{\underline{Attendance and Participation}}
@@ -24,7 +29,7 @@ This class is designated as "Dual Enrollment," which means that you are enrolled
     \item{I understand that this class heavily employs group work and project-based learning. I will take ownership of my learning process, participate in class, and support other learners.}
     \item{I agree to participate as a member of a learning community that celebrates individuality, diversity, and inclusion. I will respect the educational space and values of this classroom and support my peers in their learning journey.}
 \end{itemize}
-
+\pagebreak
 \textbf{\underline{NOVA Policies}}
 \begin{itemize}
     \item{I understand that I will receive two grades for this class: one from APS and one from NOVA. I understand that these grades may be different because of different grading policies.}
@@ -36,6 +41,7 @@ This class is designated as "Dual Enrollment," which means that you are enrolled
 \begin{itemize}
     \item{I commit to submitting original work. I will not engage in any form of cheating, plagiarism, or academic dishonesty.}
     \item{I understand that any Academic Integrity concerns will be reported to *both* APS and NOVA, and understand the policies and consequences outlined in NOVA's Academic Integrity policy.}
+    \item{It is challenging (if not impossible) to determine whether code is generated using AI tools, peers, etc. For this reason, project grades will be structured in a way that emphasizes the code development process and understanding of the submitted code. I will ensure that my git history reflects my development process, and will be able to explain and answer questions about every line of code that I submit.}
 \end{itemize}
 
 \textbf{\underline{Communication}}

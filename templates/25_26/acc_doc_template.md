@@ -1,9 +1,9 @@
 ---
-geometry: margin=30mm
+geometry: margin=20mm
 ---
 ![](./images/media/nova_logo.jpg){width=30%} \hfill ![](./images/media/dual_enroll_logo.png){width=30%}
 \begin{center}
-\fontsize{16}{36}\selectfont 
+\fontsize{16}{24}\selectfont 
 \textbf{ {{ course_num }} }\linebreak
 \textbf{ {{ course_name }} }\linebreak
 \textbf{ {{doc_title}} }\linebreak

@@ -62,7 +62,6 @@ geometry: margin=30mm
             i.  For a detailed breakdown, see the section titled "IV.  How Grades are Earned", below.
            ii.  Detailed rubrics will be provided for all projects. 
           iii.  Our class follows college policies. Late work is not accepted, and retakes are not provided.
-           iv.  SOMETHING ABOUT GITHUB
       C.  In cases where district grading policies conflict with college grading policies, the high school and college grades may differ; this may include assignment/test retakes, extended assignment due dates, capped minimum grade allowed, among other such district policies. 
       E.  It is important that students check their final NOVA grades in SIS as soon as their course is completed.
       F.  Course Grade Appeals
@@ -108,12 +107,17 @@ geometry: margin=30mm
 III.  Additional Course Information
       A.  DE students are expected to engage in college level course content and discussions appropriate for adult learners. Mature topics may be discussed. 
       B.  Attendance: Per the 2025-2026 NOVA Catalog, a credit at NOVA is equivalent to one collegiate semester hour. One credit is awarded for the following: one hour per week of lecture (15 hours per semester plus an exam period).
-      C.  This Dual Enrollment class is a rigorous, college level course that will require sustained and consistent engagement from students.
+      C.  This Dual Enrollment class is a rigorous, college level course that will require sustained and consistent engagement from students. To ensure that students understand and are prepared for these expectations: 
+           i.  All students are expected to read and sign a **DE Expectations Contract** at the beginning of the school year. For DE classes that span two semesters, a single contract at the beginning of the school year covers both.
+          ii.  All students are expected to complete NOVA's DE student orientation by the end of the first week of classes. This orientation can be accessed at www.college2success.com/nvccdual/nvccdual . 
       D.  Our class works toward an industry certification. Students are expected to complete additional preparation outside of class for this certification. The score on the certification exam will impact student grades in this class, and passing the certification test is a major expectation of the class.
       E.  An average of 40 minutes of homework will be assigned for each 90 minutes in class. We will be utilizing a flipped classroom learning environment, where the lecture portion of the course material will be viewed individually at home before class meets, and  class time will be used for collaborative engagement and discussion.
-      F.  Frequent "reading quizzes" at the beginning of class will be used to be sure homework readings and practice have been completed.  To be successful in this class, students will be expected to be prepared for these quizzes when they arrive in class.
-      G.  Our class follows college policies. Late  work is not accepted, and retakes are not provided.
-      H.  To ensure that students understand and are prepared for these expectations, all students are expected to complete a **DE Expectations Contract** at the beginning of the school year. For DE classes that span two semesters, a single contract at the beginning of the school year covers both.
+            i. Frequent "reading quizzes" at the beginning of class will be used to ensure homework readings and practice have been completed.
+           ii. To be successful in this class, students will be expected to be prepared for these quizzes before they arrive to class
+          iii. Students who fail to take a reading quiz for any reason will receive a zero grade. Answers to the reading quiz are reviewed immediately in class, so makeups can not be provided. To account for occasional absences, the five lowest reading quiz grades from each semester will be dropped.
+      G.  Our class follows college policies. Late work is not accepted, and retakes are not provided.
+      H.  It is challenging (if not impossible) to determine whether code is generated using AI tools, peers, etc. For this reason, project grades will be structured in a way that emphasizes the code development process and understanding of the submitted code. Students will be graded on their git history, and will be asked to explain sections of their code live in class.
+      I.  Students in this course produce real portfolio websites that are published on the public internet. Publishing personal information is not a requirement of the course, and students are responsible for the content that they choose to publish. This class will include frequent instruction and reflection about professionalism, digital citizenship, and digital footprints.
 
 
  IV.  How Grades are Earned 
